@@ -2,6 +2,6 @@ package test;
 
 public class Main {
     public static void main(String[] args) {
-    	System.out.println("nihao ¹þ±È");
+    	System.out.println("nihao ¹þ±Èaaa");
 	}
 }
